@@ -152,6 +152,7 @@ body{
     margin: 200px;
     align-items: center;
     justify-content: space-between;
+    border: 0;
 }
 
 .post{
@@ -215,3 +216,9 @@ footer{
     padding-bottom: 30px;
 }
 
+#req-order {
+  border-radius: 20px;
+  border: 1px solid #E55473;
+  background-color: #FFF; 
+  padding: 30px;   
+}
