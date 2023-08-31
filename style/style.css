@@ -219,6 +219,7 @@ footer{
 #req-order {
   border-radius: 20px;
   border: 1px solid #E55473;
+  box-shadow: 10px 10px #9a9595;
   background-color: #FFF; 
   padding: 30px;   
 }
